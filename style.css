@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(199, 174, 223);
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: rgb(45, 6, 82);
+    font-family: 'Dosis', sans-serif;
+}
+h2 {
+    color: rgb(57, 23, 90);
+}
+h3{
+    color: rgb(27, 176, 187);
+}
+h4{
+    color:rgb(57, 23, 90);
+}
+h5{
+    color: rgb(236, 129, 191);
+}
+h6{
+    color: rgb(196, 54, 165);
+}   
+
+.AoT_morado{
+    width: 450px;
+    border-radius: 10%;
+    box-shadow: 10px 5px 50 px rgb(255, 0, 0);
+}
+.PequeñoSpoiler{
+    width: 350px;
+    border-radius: 5%;
+    box-shadow: 10px 5px 50 px rgb(255, 0, 0);
+}
+.legiones{
+    width: 500px;
+    border-radius: 5%;
+    box-shadow: 10px 5px 50 px rgb(255, 0, 0);
+}
